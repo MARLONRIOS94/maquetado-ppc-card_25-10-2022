@@ -18,7 +18,7 @@
 .card{
     background-color: var(--color-bgc-card);
     width: 620px;
-    height: 175px;
+    height: 170px;
     border-radius: 12px;
     font-family: var(--font);
 }
