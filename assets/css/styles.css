@@ -1,0 +1,27 @@
+:root {
+    --font: 'Roboto', sans-serif;
+    --color-red:#e32213;
+    --color-bgc-card:#f4f4f4;
+    --color-text:#ffffff;
+    --color-font:#000000;  
+}
+
+*{
+    background-color:aqua;
+}
+
+
+
+.logo-user{
+    width: 64px;
+    height: 64px;
+}
+
+
+.doble-arrow{
+    width: 14px;
+    height: 14px;
+}
+
+
+
