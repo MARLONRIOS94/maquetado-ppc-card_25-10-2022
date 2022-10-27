@@ -18,17 +18,17 @@
 .card{
     background-color: var(--color-bgc-card);
     width: 620px;
-    height: 165px;
-    border-radius: 14px;
+    height: 175px;
+    border-radius: 12px;
     font-family: var(--font);
 }
 
 .logo-user{
-    width: 52px;
-    height: 52px;
+    width: 57px;
+    height: 57px;
     background-color:var(--color-red);
-    margin-top: -8px;
-    margin-left:521px;
+    margin-top: -10px;
+    margin-left:520px;
     position: absolute;
     padding: 7px;
     border-radius: 50%;
@@ -54,9 +54,9 @@
 }
 
 .container-text{
-    font-size: 16px;
-    font-family:var(--font-date);
-    line-height:0.1;
+    font-size: 18px;
+    font-family:'Calibri', sans-serif;
+    line-height:0.2;
 }
 
 .container-logo, .container-title, .container-text{
